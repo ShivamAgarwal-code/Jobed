@@ -6,26 +6,26 @@ import Layout from '../components/Layout';
 const faqs = [
   {
     id: 1,
-    question: 'Is the platform Jobin free?',
+    question: 'Is the platform Jobed free?',
     answer: 'It will 100% be free forever?',
   },
   {
     id: 2,
-    question: 'What is Jobin?',
+    question: 'What is Jobed?',
     answer:
-      'Jobin is a solution to help people with disabilities to gain additional income through obtaining gigs.',
+      'Jobed is a solution to help people with disabilities to gain additional income through obtaining gigs.',
   },
   {
     id: 3,
-    question: "What's the best thing about Jobin",
+    question: "What's the best thing about Jobed",
     answer:
-      'Jobin is a super user-friendly website that allows disabled people such as the blind to navigate easily. We are always innovating to integrate and develop new technologies to help these people.',
+      'Jobed is a super user-friendly website that allows disabled people such as the blind to navigate easily. We are always innovating to integrate and develop new technologies to help these people.',
   },
   {
     id: 4,
     question: 'Who are the founders?',
     answer:
-      'Jobin is cofounded by Tan Jun Jia, Oscar Lim Fang Jack, Hoh Jia Da and Jason Beh. Our mission is to build Jobin to help as much people as possible.',
+      'Jobed is founded by Shivam Agarwal. Our mission is to build Jobed to help as much people as possible.',
   },
 ];
 

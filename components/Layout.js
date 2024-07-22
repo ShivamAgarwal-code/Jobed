@@ -71,7 +71,7 @@ export default function Layout({ children, pageTitle = '' }) {
     <div>
       {pageTitle != '' ? (
         <Head>
-          <title>{pageTitle} | Jobin</title>
+          <title>{pageTitle} | Jobed</title>
         </Head>
       ) : null}
 

@@ -23,7 +23,7 @@ export default function Footer() {
           ))}
         </nav>
         <p className="mt-8 text-center text-base text-gray-400">
-          &copy; 2022 Jobin. All rights reserved.
+          &copy; 2024 Jobed. All rights reserved.
         </p>
       </div>
     </footer>

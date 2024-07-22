@@ -6,7 +6,7 @@ export default function Example() {
   return (
     <Layout>
       <Head>
-        <title>404 | Jobin</title>
+        <title>404 | Jobed</title>
       </Head>
       <div className="px-4 py-16 sm:px-6 sm:py-24 md:grid md:place-items-center lg:px-8">
         <div className="max-w-max mx-auto">
